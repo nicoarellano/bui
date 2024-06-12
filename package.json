@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+  "dependencies": {
+    "@thatopen/ui": "2.0.0-alpha.13"
+=======
   "name": "bui",
   "private": true,
   "version": "0.0.0",
@@ -11,5 +15,6 @@
   "devDependencies": {
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
+>>>>>>> cb077f84f5d5e8e3b48d9f8b72be01bf03818749
   }
 }
